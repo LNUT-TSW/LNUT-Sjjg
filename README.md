@@ -9,6 +9,8 @@ Spring + AngularJS
 >3.Front-end getStart page and  CN/EN entrance
 
 ***To do***
->1.Datebase design<br>
->2.Login page and so on  <br>
->3.   ...
+>1.Everyone in their own branch of the README added to complete the task, the use of special technology and the task to be done
+>2.Try to use English for exercise
+>3.Datebase design <br>
+>4.Login page and so on  <br>
+>5.  ...
