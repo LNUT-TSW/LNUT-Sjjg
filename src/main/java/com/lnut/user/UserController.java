@@ -35,7 +35,8 @@ public class UserController {
         modelAndView.addObject("users",users);
         //设置响应的jsp视图
         modelAndView.setViewName("findUser");
-        //fuck
+        //fuck u
+
 
 
 
