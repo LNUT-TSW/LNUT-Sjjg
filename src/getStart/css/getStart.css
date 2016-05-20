@@ -1,0 +1,48 @@
+body {
+	background-image: url(../img/bg.jpg);
+	background-color:azure;
+	background-size: cover;
+	color: #fff;
+	font-family: '微软雅黑', 'Open Sans', 'Segoe UI';
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+.getStart .start-container {
+	margin: 10% auto;
+
+}
+.getStart .startbox {
+	margin: 0 auto;
+	margin-bottom: 20px;
+	width: 300px !important;
+	height: auto !important;
+	padding: 0 0 20px 0;
+	-webkit-box-shadow: 0 0 14px rgba(0,0,0,.1);
+	-moz-box-shadow: 0 0 14px rgba(0,0,0,.1);
+	box-shadow: 0 0 14px rgba(0,0,0,.1);
+	background: rgba(255,255,255,.6);
+	-moz-border-radius: 15px;      /* Gecko browsers */
+    -webkit-border-radius: 15px;   /* Webkit browsers */
+    border-radius:15px;  
+}
+.getStart .startbox-title {
+	text-align: center;
+	width: 100%;
+	height: 35px;
+	padding-top: 10px;
+	font-size: 20px;
+	font-weight: normal;
+	color: #444
+}
+.getStart .startbox-submit {
+	padding: 10px 40px;
+	text-shadow: 0 1px 3px rgba(255,255,255,.5);
+	font-size: 20px;	
+}
+ 
+.getStart .m-60{
+	height: 60px;
+}
+
+.getStart .m-80{
+	height: 150px;
+}
