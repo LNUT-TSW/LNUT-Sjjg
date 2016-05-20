@@ -12,4 +12,3 @@ Spring + AngularJS
 >1.Datebase design<br>
 >2.Login page and so on  <br>
 >3.   ...
-
