@@ -7,10 +7,10 @@ angular.module('app')
 
 		$scope.toCn = function(){
 			console.log("click");
-			$state.go("cn.login");
+			$state.go("cnlogin");
 		};
 		$scope.toEn = function(){
-			$state.go("en.login");
+			$state.go("enlogin");
 		};
 
 	}]);

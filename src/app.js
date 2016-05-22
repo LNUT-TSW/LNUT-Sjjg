@@ -28,10 +28,22 @@ angular.module('app', ['ui.router', 'oc.lazyLoad', 'ui.bootstrap'])
 			}]
 		}		
 	})
-	.state('cn.login', {
+	.state('cnlogin', {
 		url: '/login',
+		controller: 'loginCtrl',
 		templateUrl: 'cn/tpls/cn.login.tpl.html',
-		controller: 'loginCtrl'
+		resolve: {
+			load: ['$ocLazyLoad', function($ocLazyLoad){
+				return $ocLazyLoad.load([
+					'cn/controllers/loginCtrl.js',
+					'cn/css/login.css',
+					'cn/css/supersized.css',
+					// 'cn/js/login/supersized.3.2.7.min.js',
+			  //       'cn/js/login/supersized-init.js',
+			  //       'cn/js/login/scripts.js',
+					]);
+			}]
+		}		
 	})
 
 
@@ -49,7 +61,7 @@ angular.module('app', ['ui.router', 'oc.lazyLoad', 'ui.bootstrap'])
 			}]
 		}		
 	})
-	.state('en.login', {
+	.state('enlogin', {
 		url: '/login',
 		templateUrl: 'en/tpls/en.login.tpl.html',
 		controller: 'loginCtrl'

@@ -4,7 +4,7 @@ angular.module('app')
 		$scope.name = 'cnCtrl';
 		console.log("cnCtrl is running");
 	}])
-	.controller('loginCtrl', ['$scope', function($scope){
-		console.log("loginCtrl is running");
-	}])
+	// .controller('loginCtrl', ['$scope', function($scope){
+	// 	console.log("loginCtrl is running");
+	// }])
 	;
