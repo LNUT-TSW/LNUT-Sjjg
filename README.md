@@ -34,4 +34,5 @@ Spring + AngularJS
 
 ## Copyright and license
 
-Code and documentation copyright 2005-2016 Liaogong.cn, 大学生探索网. Code released under [the MIT license](https://github.com/LNUT-TSW/LNUT-Sjjg/blob/master/License). 
+Copyright 2005-2016 Liaogong.cn, 大学生探索网.<br>
+Released under [the MIT license](https://github.com/LNUT-TSW/LNUT-Sjjg/blob/master/License). 
