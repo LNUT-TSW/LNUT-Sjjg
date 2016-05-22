@@ -15,8 +15,10 @@ Spring + AngularJS
 >4.Login page and so on  <br>
 >5.  ...
 
-### Project structure 
-#### Front-end
+### What's included([Front-end](https://github.com/LNUT-TSW/LNUT-Sjjg/tree/front-end))
+
+Within the download you'll find the following directories and files, You'll see something like this:
+#### 
 <pre>
 │  package.json  ——npm配置文件，配置第三方依赖插件
 │
@@ -67,3 +69,24 @@ Spring + AngularJS
 │  └─to do ...
 └─test  ——测试相关目录
 </pre>
+## Creators
+
+### Server side
+**Siunaus**
+
+* <https://github.com/Siunaus>
+
+**ChineseM**
+
+* <https://github.com/ChineseM>
+
+### Website
+**Kingzez**
+
+* <https://github.com/kingzez>
+
+
+## Copyright and license
+
+Copyright 2005-2016 Liaogong.cn, 大学生探索网.<br>
+Released under [the MIT license](https://github.com/LNUT-TSW/LNUT-Sjjg/blob/master/License). 
