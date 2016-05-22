@@ -14,3 +14,24 @@ Spring + AngularJS
 >3.Datebase design <br>
 >4.Login page and so on  <br>
 >5.  ...
+
+## Creators
+
+### Server side
+**Siunaus**
+
+* <https://github.com/Siunaus>
+
+**ChineseM**
+
+* <https://github.com/ChineseM>
+
+### Website
+**Kingzez**
+
+* <https://github.com/kingzez>
+
+
+## Copyright and license
+
+Code and documentation copyright 2005-2016 Liaogong.cn, 大学生探索网. Code released under [the MIT license](https://github.com/LNUT-TSW/LNUT-Sjjg/blob/master/License). 
