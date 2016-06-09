@@ -11,7 +11,7 @@
         <tr>
             <td>${u.id}</td>
             <td>${u.username}</td>
-            <td>${u.birthday}</td>
+
         </tr>
     </c:forEach>
 

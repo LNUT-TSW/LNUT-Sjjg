@@ -16,5 +16,4 @@ public interface UserService {
     List<User> findUser()throws Exception;
 
 
-
 }

@@ -108,6 +108,9 @@
       #{password,jdbcType=CHAR}, #{type,jdbcType=SMALLINT}, #{power,jdbcType=SMALLINT}
       )
   </insert>
+  <insert id="insertUserBatch">
+
+  </insert>
   <insert id="insertSelective" parameterType="com.lnut.user.entity.User" >
     insert into user
     <trim prefix="(" suffix=")" suffixOverrides="," >

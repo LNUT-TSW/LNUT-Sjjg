@@ -1,6 +1,4 @@
-package com.lnut.common.redis.jedis;
-
-import com.lnut.common.redis.RedisObj;
+package com.lnut.common.redis;
 
 /**
  * Created by L on 16/5/15.

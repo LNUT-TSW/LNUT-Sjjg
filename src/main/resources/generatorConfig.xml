@@ -17,7 +17,7 @@
         <!--password="${jdbc.password}">-->
         <!--</jdbcConnection>-->
         <jdbcConnection driverClass="com.mysql.jdbc.Driver"
-                        connectionURL="jdbc:mysql://127.0.0.1:3306/sjjg?characterEncoding=UTF-8"
+                        connectionURL="jdbc:mysql://127.0.0.1:3306/cn_sjjg?characterEncoding=UTF-8"
                         userId="root"
                         password="19930419">
         </jdbcConnection>
@@ -50,8 +50,9 @@
             <property name="enableSubPackages" value="false" />
         </javaClientGenerator>
         <!-- 指定数据库表 -->
-        <table tableName="user"></table>
-
+        <!--<table tableName="user"></table>-->
+        <table tableName="judge"></table>
+        <table tableName="choose"></table>
         <!-- 有些表的字段需要指定java类型
          <table schema="" tableName="">
             <columnOverride column="" javaType="" />
